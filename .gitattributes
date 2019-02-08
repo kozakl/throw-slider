@@ -1,0 +1,5 @@
+mats/ThrowSlider.fla filter=lfs diff=lfs merge=lfs -text
+mats/throwSlider.psd filter=lfs diff=lfs merge=lfs -text
+mats/ThrowSlider.swf filter=lfs diff=lfs merge=lfs -text
+mats/thumb.png filter=lfs diff=lfs merge=lfs -text
+mats/track.png filter=lfs diff=lfs merge=lfs -text
